@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "493591412320",
+    "project_id": "miasocietynotifications",
+    "storage_bucket": "miasocietynotifications.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:493591412320:android:23d8580ea222de99078d05",
+        "android_client_info": {
+          "package_name": "com.example.societyadminapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "493591412320-etadttdu4inc9snclm27pjba63dl4elk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA45Q4oxIEQIljNAWBxFyPfLFgvXx6t78Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "493591412320-etadttdu4inc9snclm27pjba63dl4elk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
